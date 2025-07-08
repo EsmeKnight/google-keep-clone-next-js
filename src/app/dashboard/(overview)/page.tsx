@@ -1,6 +1,6 @@
 "use client";
 
-import { NoteEntity, NoteItem } from "@/app/lib/definitions";
+import { NoteEntity } from "@/app/lib/definitions";
 import Note from "@/app/ui/note";
 import { useEffect, useState } from "react";
 
